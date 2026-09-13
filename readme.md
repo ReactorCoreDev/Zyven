@@ -3,7 +3,7 @@
 > [!CAUTION]
 > The only official place to download Zyven is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 >
-> By downloading this software or using this software you agree to our [License](https://github.com/ReactorCoreDev/Zyven/blob/main/LICENSE).
+> By downloading this software or using this software, you agree to our [License](https://github.com/ReactorCoreDev/Zyven/blob/main/LICENSE).
 ---
 
 > [!NOTE]
@@ -13,7 +13,7 @@
 > 
 > This menu is still developing, meaning that some features might kick you until fixed because of the new updates.
 >
-> The discord server invite link is: https://discord.gg/wHJaqJM3VU
+> The Discord server invite link is: https://discord.gg/wHJaqJM3VU
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## About Zyven
 
-Zyven is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It enables players to unlock, modify, and experiment with gameplay through an interface offering complete control over the game’s environment, roles, and mechanics.
+Zyven is a **utility menu** for *Among Us*, powered by **BepInEx**. It allows players to unlock, modify, and experiment with gameplay through an interface offering complete control over the game’s environment, roles, and mechanics.
 
 > [!NOTE]
 > Zyven is intended **for educational, experimental, and personal use only**.
@@ -56,7 +56,7 @@ Zyven is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It 
 > 
 > If you want to make a bug report, then create an issue and add [BUG REPORT] at the start of the title.
 > 
-> After providing the necessary code for pull request, I will decide whether to add it to Zyven or not. If it is added, you will be credited (if you'd like).
+> After providing the necessary code for a pull request, I will decide whether to add it to Zyven or not. If it is added, you will be credited (if you'd like).
 > 
 > [License](https://github.com/ReactorCoreDev/Zyven/blob/main/LICENSE)
 ---
@@ -66,14 +66,13 @@ Zyven is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It 
 - **Lead Developer:** [Zo5yn](https://github.com/Zo5yn)
 - **Framework:** [BepInEx](https://github.com/BepInEx/BepInEx)
 - **Suggestions/Pull requests:** [MalumMenu](https://github.com/scp222thj/MalumMenu)
-
 ---
 
 ## Installation
 
 1. Install **BepInEx** for Among Us (if not already present).
-   - [BepInEx for EpicGames, MicrosoftStore, and XboxApp](https://github.com/ReactorCoreDev/Zyven/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
-   - [BepInEx for Steam, and Itch](https://github.com/ReactorCoreDev/Zyven/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
+   - [BepInEx for Epic Games, Microsoft Store, and Xbox App](https://github.com/ReactorCoreDev/Zyven/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
+   - [BepInEx for Steam and Itch](https://github.com/ReactorCoreDev/Zyven/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
 2. Place **BepInEx** in your among us folder
 3. Extract **BepInEx**
 4. Download **Zyven**
@@ -81,9 +80,3 @@ Zyven is a **utility and hack menu** for *Among Us*, powered by **BepInEx**. It 
 5. Place it in **BepInEx**/Plugins
 6. Launch the game
 7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
-
-Sneak peak:
-Renamed files
-Renamed to zyven
-Removed unnecessary usings in files
-Removed false detection for AC, improved AC, and added 2 more checks.
