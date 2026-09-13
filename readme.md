@@ -3,7 +3,7 @@
 > [!CAUTION]
 > The only official place to download Zyven is this GitHub repository. Any other websites offering downloads are not affiliated with us.
 >
-> By downloading this software or using this software, you agree to our [License](https://github.com/ReactorCoreDev/Zyven/blob/main/LICENSE).
+> By downloading this software, having this software, or using this software, you agree to our [License](https://github.com/ReactorCoreDev/Zyven/blob/main/LICENSE).
 ---
 
 > [!NOTE]
@@ -11,7 +11,7 @@
 > It allows players to modify gameplay, unlock features, and experiment
 > with the game’s mechanics through a feature-rich menu.
 > 
-> This menu is still developing, meaning that some features might kick you until fixed because of the new updates.
+> This menu is still developing, meaning that some features might kick you until they are fixed because of the new updates.
 >
 > The Discord server invite link is: https://discord.gg/wHJaqJM3VU
 
