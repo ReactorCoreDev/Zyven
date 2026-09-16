@@ -71,8 +71,8 @@ Zyven is a **utility menu** for *Among Us*, powered by **BepInEx**. It allows pl
 ## Installation
 
 1. Install **Zyven** for Among Us (if not already present).
-   - [Steam and Itch](https://github.com/ReactorCoreDev/Zyven/releases/download/BepInEx/AmongUs_BepInEx_Steam_Itch.zip)
-   - [Epic Games, Microsoft Store, and Xbox App](https://github.com/ReactorCoreDev/Zyven/releases/download/BepInEx/AmongUs_BepInEx_EpicGames_MicrosoftStore_XboxApp.zip)  
+   - [Steam and Itch](https://github.com/ReactorCoreDev/Zyven/releases/download/Zyven/Steam_Itch.zip)
+   - [Epic Games, Microsoft Store, and Xbox App](https://github.com/ReactorCoreDev/Zyven/releases/download/Zyven/EpicGames_MicrosoftStore_XboxApp.zip)  
 3. Replace all
 6. Launch the game
 7. Open the menu with the toggle key **Del** or your preset toggle key and enjoy!
