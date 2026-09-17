@@ -1,36 +1,30 @@
 PROPRIETARY SOFTWARE LICENSE
 
-Copyright (c) 2026 ReactorCoreDev
+Copyright (c) 2026 ReactorCoreDev. All rights reserved.
 
 1. Permission to Use
-You are granted a limited, non-exclusive, non-transferable license to
-use this software for personal purposes.
+You are granted a limited, non-exclusive, non-transferable license to use this software for personal, non-commercial purposes only.
 
 2. Restrictions
 You may NOT:
-- Modify, alter, or create derivative works of the software.
-- Redistribute, share, mirror, or re-upload the software.
-- Sell, sublicense, or commercially distribute the software.
-- Copy or reproduce the software or its source code, except as necessary
-  to use the software as permitted by this license.
-- Remove or alter copyright, attribution, or license notices.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the software.
+- Modify, alter, adapt, or create derivative works based on the software or its source code.
+- Redistribute, share, mirror, re-upload, publish, or make the software (or any decompiled/reconstructed version of it) available on any platform, including but not limited to GitHub, GitLab, or any other public or private repository.
+- Sell, sublicense, rent, lease, or commercially distribute the software.
+- Copy or reproduce the software or its source code except as strictly necessary to use the software under this license.
+- Remove or alter any copyright, attribution, or proprietary notices.
 
 3. Source Code
-The source code is not provided for stealing purposes only. Decompiling the source
-does not grant permission to modify, redistribute, or create derivative
-works from it.
+The source code of this software is proprietary and confidential. 
+Decompiling, reverse engineering, or reconstructing the source code does not grant you any rights to use, modify, redistribute, or create derivative works from it.
 
 4. Ownership
-The software and all associated intellectual property remain the property
-of the copyright holder.
+The software, including all source code, object code, and related intellectual property, remains the exclusive property of ReactorCoreDev.
 
 5. Termination
-Any violation of this license immediately terminates the permissions
-granted under this license.
+Any violation of this license immediately and automatically terminates all rights granted under this license. Upon termination, you must destroy all copies of the software in your possession.
 
 6. No Warranty
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DAMAGES
-ARISING FROM THE USE OF THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
 
 Copyright (c) 2026 ReactorCoreDev. All rights reserved.
